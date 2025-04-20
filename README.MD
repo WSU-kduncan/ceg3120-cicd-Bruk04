@@ -51,8 +51,8 @@ I initally got errors here but when viewing them it seems I typed CEG3120 instea
 1. The goal of this project was really deploy code autonomously. If you look at the project in a broader sense, I have made changes on my local machine, then pushed those changes to github, and had those changes onto 'live' (docker where my stuff is deployed) synchronously. I did this using Docker (where my content is deployed), and github (the source of my content) and github actions (what to do with my content).
 
 2. Online resources:
-https://nodejs.org/en/download/
-https://docs.docker.com/engine/daemon/troubleshoot (docker issues)
-https://docs.docker.com/build/ci/github-actions/ (How to use github actions & docker)
-https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-with-github-actions (general info on github actions)
+- https://nodejs.org/en/download/
+- https://docs.docker.com/engine/daemon/troubleshoot (docker issues)
+- https://docs.docker.com/build/ci/github-actions/ (How to use github actions & docker)
+- https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-with-github-actions (general info on github actions)
 
