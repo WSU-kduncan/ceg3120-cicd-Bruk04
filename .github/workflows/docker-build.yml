@@ -1,4 +1,4 @@
-name: Simple Docker Push for Angular App
+name: Docker push for CEG3120
 
 # do this on the main branch
 on:
